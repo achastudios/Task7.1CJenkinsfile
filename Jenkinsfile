@@ -11,7 +11,7 @@ pipeline {
             steps {
                 echo 'Stage 1: Build'
                 echo 'Task: Build the code by compiling and packaging the application.'
-                echo 'Tool: Maven'
+                echo 'Tool: Maven Build automation'
             }
         }
 
